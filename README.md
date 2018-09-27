@@ -3,7 +3,7 @@ IR remote control
 
 Hello! This library is desined for STM32 microcontrollers.
 STM32f4xx series are default.
-All you need to use it is MCU with timer wroking as input capture. 
+All you need to use it is MCU with timer working as input capture. 
 
 I reccomend to use TIM2 channel 1 
 as default, but you can change for whatever you want! 
