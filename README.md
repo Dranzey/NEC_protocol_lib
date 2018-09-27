@@ -1,5 +1,6 @@
 # NEC_protocol_lib
 IR remote control
+
 Hello! This library is desined for STM32 microcontrollers.
 STM32f4xx series are default.
 All you need to use it is MCU with timer wroking as input capture. 
