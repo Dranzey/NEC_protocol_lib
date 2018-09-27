@@ -1,5 +1,5 @@
 # NEC_protocol_lib
-IR remote control
+IR remote control for STM32
 
 Hello! This library is desined for STM32 microcontrollers.
 STM32f4xx series are default.
